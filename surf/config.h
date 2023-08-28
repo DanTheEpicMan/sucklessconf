@@ -6,7 +6,7 @@ static char *styledir       = "~/.surf/styles/";
 static char *certdir        = "~/.surf/certificates/";
 static char *cachedir       = "~/.surf/cache/";
 static char *cookiefile     = "~/.surf/cookies.txt";
-static char *scriptfile	    = "~/.surf/script.js";
+//static char *scriptfile	    = "~/.surf/script.js";
 
 /* Webkit default features */
 /* Highest priority value will be used.
